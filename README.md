@@ -1,6 +1,6 @@
 roLabelImg
 ==========
-a custom annotation tool for rotated bounding box
+A custom annotation tool for rotated bounding box
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
